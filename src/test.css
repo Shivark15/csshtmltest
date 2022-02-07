@@ -1,0 +1,60 @@
+body
+        {
+            padding-top: 8%;
+            padding-right: 40%;
+            padding-left: 40%;
+        }
+        .wrapper
+        {
+            border: solid 5px #272626 ;
+            border-radius: 10%;
+            background-color: rgb(49, 34, 34);
+            margin-left: 25%;
+            margin-right: 25%;
+            height: 50%;
+        }
+        .c1
+        { 
+            border-radius: 50%;
+            border: 1px rgb(58, 57, 57);
+            float: left;
+            text-align: left;
+        }
+        .zero
+        {
+            text-align: right;
+            float: bottom;
+            color: white;
+            padding-top: 20%;
+        }
+        .header{
+            background-color: rgb(66, 65, 65);
+            height: 100px;
+    
+        }
+        .m1
+        {
+            height: 25%;
+            background-color: #61626A;
+            overflow: hidden;
+            width: 100%;
+        }
+        .b
+        {
+            float: left;
+            width: 24.99%;
+            height: 50px;
+        }
+        
+        .b0
+        {
+            float: left;
+            width: 50%;
+            height: 50px;
+        }
+        .bl
+        {
+            background-color: #FE9F0B;
+            width: 25%;
+            height: 50px;
+        }
